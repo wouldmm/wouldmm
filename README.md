@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wouldmm)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wouldmm)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Philosober/Philosober/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Philosober/Philosober/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/Philosober/Philosober/blob/output/github-contribution-grid-snake.svg" />
+</picture>
