@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wouldmm)](https://git.io/streak-stats)
 
-![wouldmm's GitHub stats](https://github-readme-stats.vercel.app/api?username=wouldmm&show_icons=true&theme=transparent)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Philosober/Philosober/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Philosober/Philosober/blob/output/github-contribution-grid-snake.svg" />
